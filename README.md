@@ -1,4 +1,4 @@
-# titanic
+# Titanic
 
 Started by loading titanic dataset.
 
